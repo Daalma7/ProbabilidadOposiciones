@@ -22,8 +22,10 @@ AVISO: Esta cantidad "óptima" de temas no es la "mejor". A más temas estudies,
 Ejemplos de resultados:
 
 <div align="center">
-    <img src="other/scatter_po_algorithm_adult.png" width="412px"/> 
-    <img src="other/scatter_po_algorithm_compas.png" width="412px"/> 
+    <img src="imgs/imgprobs1.png" width="412px"/> 
+    <img src="imgs/imgprobs2.png" width="412px"/> 
 </div>
+
+Adicionalmente se calculan las tablas completas con todas estas probabilidades para que se puedan consultar todos los resultados calculados con un una mayor precisión.
 
 **Créditos**: David Villar Martos ([Link a Github](https://github.com/Daalma7))
